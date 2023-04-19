@@ -1,7 +1,7 @@
 "I developed the backend of a social media app that offers various features such as user account creation, authentication, persistent login, post creation, viewing other users' posts, and liking posts
 
-![caht_app_1](https://user-images.githubusercontent.com/70231909/233133952-7259e16c-c988-478e-a155-fd24ec83b1b2.png)
+![fastapi_1](https://user-images.githubusercontent.com/70231909/233134203-2cf21a0e-b2e0-4794-831a-b0fc4bf1400b.png)
 
-![chat_app_2](https://user-images.githubusercontent.com/70231909/233133979-964ac237-8bc0-4e5a-a89d-9f9c73ef9f3e.png)
+![fastapi_3](https://user-images.githubusercontent.com/70231909/233134216-37e34653-7584-49fc-ac4c-c66363c4921e.png)
 
-![chat_app_3](https://user-images.githubusercontent.com/70231909/233134016-c31d024f-7f33-40d0-85f3-b826eaeb917c.png)
+![fastapi_4](https://user-images.githubusercontent.com/70231909/233134242-25eb6887-71f3-4c66-b3fa-54be3974e4c7.png)
